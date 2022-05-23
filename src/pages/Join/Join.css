@@ -1,0 +1,17 @@
+.message {
+    padding-top: 10vh;
+}
+
+.back-btn {
+    border: 0vh;
+    background: 0;
+    font-size: 20vh;
+    color: #ffffff;
+}
+
+.btn-set {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+}

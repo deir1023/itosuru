@@ -1,0 +1,27 @@
+  .field {
+    font-size: 1.2rem;
+    width: 80vw;
+    height: 10vw;
+  }
+  @media screen and (min-width:600px) {
+    .field {
+      font-size: 2rem;
+    }
+  }
+
+  .odai-create-btn {
+    background: #ffffff;
+    width: 100vw;
+    max-width: 200px;
+    height: 60vw;
+    max-height: 100px;
+    border-radius: 50vw;
+    border-width: 0vw;
+    font-size: 1.1rem;
+  }
+
+ .url-set {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ }

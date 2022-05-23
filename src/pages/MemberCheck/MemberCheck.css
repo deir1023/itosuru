@@ -1,0 +1,14 @@
+.outline {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background:#ffffff;
+    width: 70vw;
+    height: 50vh;
+    text-align: center;
+    font-size: 20px;
+    color:#182b7c;
+    opacity: 0.5;
+    font-size: 1rem;
+    line-height: 1rem;
+}

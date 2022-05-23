@@ -1,0 +1,32 @@
+.title3 {
+    background:#182b7c;;
+    width: 30vw;
+    height: 30vw;
+    text-align: center;
+    color:#ffffff;
+    opacity: 0.5;
+    font-size: 1rem;
+    line-height: 1rem;
+}
+
+.title4 {
+    background:#ffffff;
+    width: 20vw;
+    height: 30vh;
+    text-align: center;
+    color:#182b7c;
+    opacity: 0.5;
+    font-size: 0.5rem;
+    line-height: 0.5rem;
+}
+
+.title5 {
+    background:#ffffff;;
+    width: 40vw;
+    height: 40vw;
+    text-align: center;
+    color:#182b7c;;
+    opacity: 0.5;
+    font-size: 1rem;
+    line-height: 1rem;
+}
